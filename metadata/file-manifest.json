@@ -1,0 +1,366 @@
+{
+  "schema_version": 1,
+  "source_snapshot": "KB_Standard_A5磁组20261110",
+  "files": [
+    {
+      "path": "hardware/drawings/A5_Cover - 图纸.pdf",
+      "source_path": "图纸/A5_Cover - 图纸.pdf",
+      "size_bytes": 136703,
+      "sha256": "d9381b79babea124f1c9e8039828075bba117d09c8c25e4abf5d342fc5d3db3c",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/A5_Cover.SLDDRW",
+      "source_path": "图纸/A5_Cover.SLDDRW",
+      "size_bytes": 441877,
+      "sha256": "97224264419adcaf0b62cd723ca5f9ee02789884d5e3d114f76e61529ae92d68",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/A5_Cover.SLDPRT",
+      "source_path": "图纸/A5_Cover.SLDPRT",
+      "size_bytes": 211247,
+      "sha256": "c3634bf68eb07473ba412b9cf486f4e0c87c6d2c47d599e6dcd05f07a0fd2de1",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/A5_Cover.STEP",
+      "source_path": "图纸/A5_Cover.STEP",
+      "size_bytes": 250598,
+      "sha256": "1846d06651c39f89eef82ffe650faa5e057a3091f0c7ed0b60df97f60c061aa5",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerL - 图纸.pdf",
+      "source_path": "图纸/A5_InnerL - 图纸.pdf",
+      "size_bytes": 63132,
+      "sha256": "8e23bdd94e105e076f227bb8b3a257c28a4f538de69c8bba346e6d6d42adcec2",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerL.SLDDRW",
+      "source_path": "图纸/A5_InnerL.SLDDRW",
+      "size_bytes": 182580,
+      "sha256": "98d02a173ba5a83216cbe8c66720d75f1d4490e6fad9af991800a24dea2006e9",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerL.SLDPRT",
+      "source_path": "图纸/A5_InnerL.SLDPRT",
+      "size_bytes": 103981,
+      "sha256": "073f107fbadd0505143599769134beae438c3ad43815fd00e06f6801c19ed73d",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerL.STEP",
+      "source_path": "图纸/A5_InnerL.STEP",
+      "size_bytes": 31354,
+      "sha256": "a3d109f52731be0d8d959fe59bb94d309607ea42ef0b9fddd9e796b562a10067",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerS - 图纸.pdf",
+      "source_path": "图纸/A5_InnerS - 图纸.pdf",
+      "size_bytes": 63033,
+      "sha256": "e7a253ab4c9a4071441f85f885e89a9850795416e2297c697473997f7caa80d7",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerS.SLDDRW",
+      "source_path": "图纸/A5_InnerS.SLDDRW",
+      "size_bytes": 177019,
+      "sha256": "b6cfe91f86538d349997bb2083a86a0b525fb2440718d3b500d4e51fd9948e69",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerS.SLDPRT",
+      "source_path": "图纸/A5_InnerS.SLDPRT",
+      "size_bytes": 106359,
+      "sha256": "214162f62d86871ae956b2f554bf6d47f224db3c66b2fa8ffb3eee12db308413",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/A5_InnerS.STEP",
+      "source_path": "图纸/A5_InnerS.STEP",
+      "size_bytes": 31349,
+      "sha256": "42b52c44f5e8926222768364c2f163f8f2c473e513f9f59982d04ffaf9604db7",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterL-图纸.pdf",
+      "source_path": "图纸/A5_OuterL-图纸.pdf",
+      "size_bytes": 77234,
+      "sha256": "595c88426f7f1ede48d31cfb2ff9873aac6b58e47d604dd9a6cbf3f426eabe9a",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterLV1.0.SLDDRW",
+      "source_path": "图纸/A5_OuterLV1.0.SLDDRW",
+      "size_bytes": 710778,
+      "sha256": "908f8e4be63d55c4fce466a3a9967215ceab4e2f91faec6e1934a779523bb8e8",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterLV1.0.SLDPRT",
+      "source_path": "图纸/A5_OuterLV1.0.SLDPRT",
+      "size_bytes": 333583,
+      "sha256": "5b4234c0f19b45d446fa927a823ed87bca49575f424186f1c19c595daebab680",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterLV1.0.STEP",
+      "source_path": "图纸/A5_OuterLV1.0.STEP",
+      "size_bytes": 895320,
+      "sha256": "940746d3a9ec0f49d5b62c3388712fa4ce57973e9fce24077fe39bcd72b63686",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterS-图纸.pdf",
+      "source_path": "图纸/A5_OuterS-图纸.pdf",
+      "size_bytes": 76709,
+      "sha256": "7dfdd6b1df4f505d305590d83bf65088675ee914714c985bdad49d4bbc0ad8bb",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterS.SLDDRW",
+      "source_path": "图纸/A5_OuterS.SLDDRW",
+      "size_bytes": 711750,
+      "sha256": "8159a574427ba088f853dbaf88e6c1d55a65b4c5279112f87fec960570a7587f",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterS.SLDPRT",
+      "source_path": "图纸/A5_OuterS.SLDPRT",
+      "size_bytes": 324567,
+      "sha256": "d4a05cc9fc660163fbb4c0b283172db285da2d907eee837576fd7e4983d52a60",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/A5_OuterS.STEP",
+      "source_path": "图纸/A5_OuterS.STEP",
+      "size_bytes": 888370,
+      "sha256": "5daadb67c1e791a59fc61071816e05404e6e498d103ab042fd00c2714d6b19db",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/A5_SmCo - 图纸.pdf",
+      "source_path": "图纸/A5_SmCo - 图纸.pdf",
+      "size_bytes": 58136,
+      "sha256": "6d7af637b33438c9936f2853ceda8f686e5a57fc3140b507549b2ba7ef48368d",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/A5_SmCo.SLDDRW",
+      "source_path": "图纸/A5_SmCo.SLDDRW",
+      "size_bytes": 133517,
+      "sha256": "c4ac30f21af4a73506a0a8cc508fade09723894ddb66a6160abbc4bd1b296a23",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/A5_SmCo.SLDPRT",
+      "source_path": "图纸/A5_SmCo.SLDPRT",
+      "size_bytes": 68413,
+      "sha256": "805a10449b239d75bd4d1d33139dbe20ba53f5ac52e9e188b0e9b2b90ec2d8f1",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/上部磁体固定件.pdf",
+      "source_path": "图纸/上部磁体固定件.pdf",
+      "size_bytes": 64523,
+      "sha256": "66cd9c668e9e15eb4ec7c44ac9833f1307e1de85cedd2029eaa9188c898df53c",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/上部磁体固定件.STEP",
+      "source_path": "图纸/上部磁体固定件.STEP",
+      "size_bytes": 112016,
+      "sha256": "53d9bbde873f042398b12a752ea39f9ecc04b55298478f9ee197e2433de243f0",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/下部磁体固定件.pdf",
+      "source_path": "图纸/下部磁体固定件.pdf",
+      "size_bytes": 64886,
+      "sha256": "8cec7e277e5c46cc35ff009e4a6293723b67daf0440118db768a18ff82493f43",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/下部磁体固定件.STEP",
+      "source_path": "图纸/下部磁体固定件.STEP",
+      "size_bytes": 111997,
+      "sha256": "927b6498cf1b906d8c51ef97ba7a22c1f2a40473d7f31fa60f49099bc05395b7",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/drawings/内磁轭卡件 - 图纸1.pdf",
+      "source_path": "图纸/内磁轭卡件 - 图纸1.pdf",
+      "size_bytes": 74212,
+      "sha256": "0808a0908ecab1a43fda08294162b85c5e2bb02989f162bf3bab4e154d0906ef",
+      "format": "PDF",
+      "role": "drawing-pdf"
+    },
+    {
+      "path": "hardware/drawings/内磁轭卡件.SLDDRW",
+      "source_path": "图纸/内磁轭卡件.SLDDRW",
+      "size_bytes": 303976,
+      "sha256": "9de005b6eec1e79263b4a92f98143b28851e9909c66d465cf1fce98fa9a636d9",
+      "format": "SLDDRW",
+      "role": "drawing"
+    },
+    {
+      "path": "hardware/drawings/内磁轭卡件.SLDPRT",
+      "source_path": "图纸/内磁轭卡件.SLDPRT",
+      "size_bytes": 204754,
+      "sha256": "b5c325074eafe1608242e3d7886c4d134ace563c10c7b630fdc9969dbb9550ad",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/drawings/内磁轭卡件.STEP",
+      "source_path": "图纸/内磁轭卡件.STEP",
+      "size_bytes": 201166,
+      "sha256": "9c1e72d95fed6cb0d64fae9685b9bfdc9996b9be7ee7b9b52ca57a2a1631013e",
+      "format": "STEP",
+      "role": "exchange"
+    },
+    {
+      "path": "hardware/solidworks/01.THUKB-CY-01-00 M磁组.SLDASM",
+      "source_path": "01.THUKB-CY-01-00 M磁组.SLDASM",
+      "size_bytes": 703015,
+      "sha256": "10b4daa5d39f10705c84e52174a3b0ffc5703c5a8dfae4260022a638e3ba61ea",
+      "format": "SLDASM",
+      "role": "assembly"
+    },
+    {
+      "path": "hardware/solidworks/A5_CoverV1.0.SLDPRT",
+      "source_path": "A5_CoverV1.0.SLDPRT",
+      "size_bytes": 225441,
+      "sha256": "0e76e76fb87df745e0449f18b669e4d94b7372f2463f26efbb0dfeeb6ae0565b",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/A5_InnerLV1.0.SLDPRT",
+      "source_path": "A5_InnerLV1.0.SLDPRT",
+      "size_bytes": 119333,
+      "sha256": "6b86e3cf23879e2aef13efd0067f654f1978e5446c70f2ecb2015476a211bf81",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/A5_InnerSV1.0.SLDPRT",
+      "source_path": "A5_InnerSV1.0.SLDPRT",
+      "size_bytes": 121599,
+      "sha256": "e4ecbb6b3e988f879c5fc268ab26fc0cb700757d9997acf120da952a55d8e2b8",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/A5_OuterLV1.0.SLDPRT",
+      "source_path": "A5_OuterLV1.0.SLDPRT",
+      "size_bytes": 333583,
+      "sha256": "5b4234c0f19b45d446fa927a823ed87bca49575f424186f1c19c595daebab680",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/A5_OuterSV1.0.SLDPRT",
+      "source_path": "A5_OuterSV1.0.SLDPRT",
+      "size_bytes": 324567,
+      "sha256": "d4a05cc9fc660163fbb4c0b283172db285da2d907eee837576fd7e4983d52a60",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/A5_SmCoV1.0.SLDPRT",
+      "source_path": "A5_SmCoV1.0.SLDPRT",
+      "size_bytes": 83067,
+      "sha256": "ac0d7aa39c78d34927f30f91ad6be743b8346112d138e6fc37d3fa6495d0e576",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/GB／T77-2000内六角平端紧定螺钉M6×10.SLDPRT",
+      "source_path": "GB／T77-2000内六角平端紧定螺钉M6×10.SLDPRT",
+      "size_bytes": 113558,
+      "sha256": "f346911e1e9a4861ea977db5bef48d99a35f65487690ade0909b1659ad8f6482",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/上部磁体固定件V1.0.SLDPRT",
+      "source_path": "上部磁体固定件V1.0.SLDPRT",
+      "size_bytes": 139983,
+      "sha256": "07c7a94882a403a6153b3640be5bd036b944fe0e0e8467bb23838ada5c898250",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/下部磁体固定件V1.0.SLDPRT",
+      "source_path": "下部磁体固定件V1.0.SLDPRT",
+      "size_bytes": 136507,
+      "sha256": "c8ac0774b62910db36b78f12a768fe94f1ec0f430a3a633ecfd88771fdbcff3a",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/内六角圆柱头螺钉M3×8.SLDPRT",
+      "source_path": "内六角圆柱头螺钉M3×8.SLDPRT",
+      "size_bytes": 115791,
+      "sha256": "9f855fa9641f7e485a9406365da4c1de20a7b71993429746b8d3aea0c673bb4d",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/内六角圆柱头螺钉M6×30.SLDPRT",
+      "source_path": "内六角圆柱头螺钉M6×30.SLDPRT",
+      "size_bytes": 115882,
+      "sha256": "3a76c913c50a9f51f14f0962263662a94ce4708bdad02f4cc669af18bffa6710",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/内六角圆柱头螺钉M6×80.SLDPRT",
+      "source_path": "内六角圆柱头螺钉M6×80.SLDPRT",
+      "size_bytes": 102442,
+      "sha256": "726cbd0faa14705c7a31606bc187b9f7b5697be68461f7d90e6c5cc78b54dfb4",
+      "format": "SLDPRT",
+      "role": "part"
+    },
+    {
+      "path": "hardware/solidworks/内磁轭卡件V1.0.SLDPRT",
+      "source_path": "内磁轭卡件V1.0.SLDPRT",
+      "size_bytes": 250544,
+      "sha256": "edf80ae4a9b94ca8734a57c9467cfc0332b01028d7f0974bba070ce14b471a93",
+      "format": "SLDPRT",
+      "role": "part"
+    }
+  ]
+}

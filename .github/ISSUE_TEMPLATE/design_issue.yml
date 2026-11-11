@@ -1,0 +1,28 @@
+name: Design or documentation issue
+description: Report a reproducible problem with a drawing, CAD file, or instruction.
+body:
+  - type: input
+    id: revision
+    attributes:
+      label: Repository revision or release
+      description: Provide the commit or release used for your work.
+    validations:
+      required: true
+  - type: input
+    id: files
+    attributes:
+      label: Affected file paths
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Observed problem and expected result
+      description: Include dimensions, units, software version, and reproduction steps when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Attach screenshots or measurements with their uncertainty and measurement conditions.

@@ -1,0 +1,13 @@
+# Never normalize, merge, or rewrite original design-file bytes.
+hardware/** -text -diff -merge
+
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.cff text eol=lf
+*.bib text eol=lf
+*.svg text eol=lf
+*.cmd text eol=crlf

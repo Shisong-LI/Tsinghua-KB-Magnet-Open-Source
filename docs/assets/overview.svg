@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tsinghua KB Magnet Open Source</title>
+  <desc id="desc">CAD, engineering drawings, and a reproducible route from source files to reviewed hardware.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#1d3150"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#83e1d1"/><stop offset="1" stop-color="#a4c9ff"/></linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="16" fill="url(#bg)"/>
+  <g fill="none" stroke="#38506d" opacity="0.65">
+    <circle cx="1090" cy="144" r="110"/><circle cx="1090" cy="144" r="78"/><circle cx="1090" cy="144" r="42"/>
+    <path d="M960 144h260M1090 14v260"/>
+  </g>
+  <rect x="48" y="43" width="5" height="104" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="75" y="62" fill="#8bdccc" font-size="15" letter-spacing="3">OPEN HARDWARE / SOURCE DESIGN</text>
+    <text x="73" y="112" fill="#fff" font-size="43" font-weight="700">Tsinghua KB Magnet</text>
+    <text x="75" y="152" fill="#c1d4ed" font-size="27">Open Source</text>
+    <text x="48" y="204" fill="#c1d4ed" font-size="18">Permanent-magnet system for a tabletop Kibble balance</text>
+    <g font-size="16" font-weight="600">
+      <rect x="48" y="252" width="275" height="60" rx="8" fill="#243d5a"/>
+      <text x="70" y="288" fill="#e0efff">01  CAD source</text>
+      <path d="M338 282h40m-8-7 8 7-8 7" fill="none" stroke="#8bdccc" stroke-width="2"/>
+      <rect x="393" y="252" width="300" height="60" rx="8" fill="#243d5a"/>
+      <text x="415" y="288" fill="#e0efff">02  Drawings &amp; guidance</text>
+      <path d="M708 282h40m-8-7 8 7-8 7" fill="none" stroke="#8bdccc" stroke-width="2"/>
+      <rect x="763" y="252" width="390" height="60" rx="8" fill="#243d5a"/>
+      <text x="785" y="288" fill="#e0efff">03  Review, build &amp; measure</text>
+    </g>
+  </g>
+</svg>

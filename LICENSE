@@ -1,0 +1,24 @@
+Tsinghua KB Magnet Open Source - license map
+
+Hardware design files under hardware/:
+  CERN Open Hardware Licence Version 2 - Permissive
+  SPDX-License-Identifier: CERN-OHL-P-2.0
+  Full text: LICENSES/CERN-OHL-P-2.0.txt
+
+Original documentation, diagrams, and repository metadata:
+  Creative Commons Attribution 4.0 International
+  SPDX-License-Identifier: CC-BY-4.0
+  Full text: LICENSES/CC-BY-4.0.txt
+
+Scripts, command launchers, and GitHub workflow code:
+  MIT License
+  SPDX-License-Identifier: MIT
+  Full text: LICENSES/MIT.txt
+
+Attribution for repository contributions:
+  Tsinghua KB Magnet Open Source contributors (2026 and later).
+  Preserve existing source notices and the scientific citation in CITATION.cff.
+
+The linked research article is excluded from these grants and retains its
+own terms. License texts retain their own notices. See docs/LICENSING.md
+for scope and attribution guidance.

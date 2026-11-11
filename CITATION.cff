@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Cite the article for the scientific design and measurements; identify the repository commit for the source files used."
+type: software
+title: "Tsinghua KB Magnet Open Source"
+authors:
+  - name: "Tsinghua KB Magnet Open Source contributors"
+date-released: 2026-11-11
+abstract: "Documented CAD and engineering drawing snapshot for a Tsinghua tabletop Kibble balance permanent-magnet system."
+keywords:
+  - Kibble balance
+  - permanent magnet
+  - open hardware
+  - mass metrology
+license:
+  - CERN-OHL-P-2.0
+  - CC-BY-4.0
+  - MIT
+preferred-citation:
+  type: article
+  title: "A Compact Magnet System for the Tsinghua Tabletop Kibble Balance"
+  authors:
+    - family-names: Ma
+      given-names: Yongchao
+    - family-names: Li
+      given-names: Nanjia
+    - family-names: Liu
+      given-names: Weibo
+    - family-names: Ma
+      given-names: Kang
+    - family-names: Zhao
+      given-names: Wei
+    - family-names: Huang
+      given-names: Songling
+    - family-names: Li
+      given-names: Shisong
+  year: 2024
+  doi: "10.48550/arXiv.2409.03334"
+  url: "https://arxiv.org/abs/2409.03334v1"
+  notes: "arXiv:2409.03334v1 [physics.ins-det], submitted 5 September 2024."

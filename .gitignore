@@ -1,0 +1,21 @@
+# Generated local files; original hardware is always tracked.
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
+*.zip
+*.zip.sha256
+*.sldbak
+*.SLDBAK
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+token.txt
